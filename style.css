@@ -1,0 +1,14 @@
+body {
+    background: linear-gradient(rgb(0, 82, 0),rgb(220, 220, 5), rgb(2, 2, 202));
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+h2{
+    background-color: rgb(255, 255, 255);
+}
+#imagem_paisagem{
+    width: 50%;
+}
+#imagem_bandeira{
+    width: 40%;
+}
